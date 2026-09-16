@@ -1,15 +1,63 @@
-## Oi, meu nome é Jonatan
+# Hi, I'm Jonatan 👋
 
-Com sólida formação em contabilidade e paixão por dados, estou em transição para a ciência de dados. Tenho experiência em analisar dados financeiros para gerar insights valiosos e estou aprimorando minhas habilidades em programação, análise estatística e machine learning. Busco transformar dados em soluções estratégicas e estou aberto a novas oportunidades de colaboração e aprendizado.
+### Data Analytics | Data Science | Machine Learning
 
-- 🖥️ Atualmente focado em:
-<div display="inline">
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-</div>
+I'm a data professional in development with a background in Accounting, Finance and Taxation, currently pursuing a Master's Degree in Data Analytics and Decision Support Systems at Coimbra Business School | ISCAC, Portugal.
 
-##
-- ### Você também me encontra em:
-<a href="https://www.linkedin.com/in/jonatan-agne-de-freitas/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+My background in accounting has given me strong experience working with financial information, reconciliations, business processes and data accuracy. I'm now combining that experience with Data Analytics and Machine Learning to build data-driven solutions.
+
+## 🛠️ Tech Stack
+
+**Programming & Data**
+- Python
+- SQL
+- Pandas
+- NumPy
+
+**Machine Learning & Statistics**
+- Scikit-learn
+- Regression
+- Decision Trees
+- Ensemble Methods
+- PCA
+- K-Means
+- Statistical Analysis
+
+**Data Visualization & Apps**
+- Matplotlib
+- Seaborn
+- Plotly
+- Streamlit
+
+**Databases & Cloud**
+- PostgreSQL
+- Amazon Athena
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- Anaconda
+- Microsoft Excel
+
+## 📊 Featured Projects
+
+### 💳 Credit Scoring — Machine Learning
+Credit scoring project covering exploratory data analysis, data preprocessing, feature transformation, PCA, Logistic Regression, Out-of-Time validation and model experimentation with PyCaret and LightGBM.
+
+🔗 [View project](https://github.com/JonatanAgneDeFreitas/Mod-38-ProjetoFinal)
+
+### 🌳 Credit Risk — Decision Tree
+Credit risk classification using Decision Trees, including data preparation, train/test evaluation, confusion matrix analysis, hyperparameter tuning and analysis of class imbalance.
+
+🔗 [View project](https://github.com/JonatanAgneDeFreitas/Projeto-1-Credit-score)
+
+## 🎓 Currently
+
+- Master's Degree in Data Analytics and Decision Support Systems
+- Developing projects in Data Analytics and Machine Learning
+- Expanding my knowledge of databases, statistical modeling and decision support systems
+
+## 📫 Connect with me
+
+[LinkedIn](https://linkedin.com/in/jonatan-agne-de-freitas)
