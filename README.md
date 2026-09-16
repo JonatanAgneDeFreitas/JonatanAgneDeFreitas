@@ -2,7 +2,7 @@
 
 ### Data Analytics | Data Science | Machine Learning
 
-I'm a data professional in development with a background in Accounting, Finance and Taxation, currently pursuing a Master's Degree in Data Analytics and Decision Support Systems at Coimbra Business School | ISCAC, Portugal.
+I'm a professional with a background in Accounting, Finance and Taxation, currently focused on Data Analytics and Data Science and pursuing a Master's Degree in Data Analytics and Decision Support Systems at Coimbra Business School | ISCAC, Portugal.
 
 My background in accounting has given me strong experience working with financial information, reconciliations, business processes and data accuracy. I'm now combining that experience with Data Analytics and Machine Learning to build data-driven solutions.
 
